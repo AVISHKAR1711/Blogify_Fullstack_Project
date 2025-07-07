@@ -57,11 +57,11 @@ https://github.com/AVISHKAR1711/Blogify_Fullstack_Project
 
 ### Clone the repository:
 
-    git clone https://github.com/code-with-divyanshu/MegaBlog_App
+    git clone https://github.com/AVISHKAR1711/Blogify_Fullstack_Project.git
 
 ### Navigate to the project directory:
 
-    cd mega-blog
+    cd blog-project
 
 ### Install dependencies:
 
